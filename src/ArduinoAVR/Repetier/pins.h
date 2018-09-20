@@ -2348,13 +2348,15 @@ S3(ext)=9
 #define E1_MS2_PIN     64
 
 #define DIGIPOTSS_PIN  38
-#define DIGIPOT_CHANNELS {4,5,3,0,1} // X Y Z E0 E1 digipot channels to stepper driver mapping
+#define DIGIPOT_CHANNELS {4,5,3,0,1} // X Y Z E021 E1 digipot channels to stepper driver mapping
 
 #define SDPOWER        -1
 #define SDSS           53
 #define LED_PIN        13
-#define ORIG_FAN_PIN        8
-#define ORIG_FAN2_PIN    6
+//#define ORIG_FAN_PIN     6
+#define ORIG_FAN_PIN     8
+#define ORIG_FAN2_PIN    -1
+//#define ORIG_FAN2_PIN    8
 #define ORIG_FAN3_PIN    2
 #define ORIG_PS_ON_PIN      4
 #define SUICIDE_PIN    -1  //PIN that has to be turned on right after start, to keep power flowing.
