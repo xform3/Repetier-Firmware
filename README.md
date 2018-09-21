@@ -13,6 +13,9 @@ Connect Z-probe switch(normaly open) to Z-min Endstop on Rambo board.
 * Bed fan - Fan1
  
 - Tested with Octoprint
-![Rostock Max v1](https://i.imgur.com/TFRFk9V.jpg)
 
-![Rostock Max v1](https://i.imgur.com/6cPzRUI.gif)
+
+
+![Rostock Max v1](https://i.imgur.com/TFRFk9V.jpg)
+![Rostock Max v1](https://i.imgur.com/opx9GTK.jpg)
+![Rostock Max v1](https://i.imgur.com/PiXJQiB.jpg)
