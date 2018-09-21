@@ -12,4 +12,6 @@ Connect Z-probe switch(normaly open) to Z-min Endstop on Rambo board.
 * Peek fan is configured to - Fan0
 * Bed fan - Fan1
  
-## Tested with Octoprint
+- Tested with Octoprint
+
+(https://i.imgur.com/6cPzRUI.gif)
