@@ -15,7 +15,7 @@ Connect Z-probe switch(normaly open) to Z-min Endstop on Rambo board.
 
 Tested with Octoprint
 
-
+## Some pictures
 
 ![Rostock Max v1](https://i.imgur.com/TFRFk9V.jpg)
 ![Rostock Max v1](https://i.imgur.com/opx9GTK.jpg)
