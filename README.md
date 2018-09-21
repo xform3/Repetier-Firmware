@@ -13,7 +13,7 @@ Connect Z-probe switch(normaly open) to Z-min Endstop on Rambo board.
 * Bed fan - Fan1
  
 
-Tested with Octoprint
+Tested with Octoprint /
 
 ## Some pictures
 
